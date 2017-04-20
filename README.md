@@ -6,10 +6,9 @@ Term: Spring 2017
 + Projec title: Amazon Kindle Store Reviews
 + Team members
 	+ Ziwei Meng
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Galen Simmons
+	+ Virgile Mison
+	+ Yijia Pan
 + Project summary: In this project, our data sets are Amazon's kindle store reviews from 2000 to 2014, and it's product sales rank. To improve sales and customer experience, we are interested in the following questions:            
         
 	+ Customer Segmentation
